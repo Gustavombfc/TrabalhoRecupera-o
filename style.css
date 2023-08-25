@@ -1,0 +1,12 @@
+body {background-color: rgb(6, 32, 44);}
+#imag1 {width: 101%;}
+h1 { color: darkmagenta;
+}
+#imag2 {width: 100%;}
+h2 { color: darkgoldenrod;
+}
+h1 {margin-left: 395px;
+}
+h2 {margin-left: 495px;
+    font-weight: bolder;
+}
